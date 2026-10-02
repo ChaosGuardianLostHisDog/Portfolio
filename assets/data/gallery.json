@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Pixel Art GIF (Test)",
+    "image": "assets/img/AAAGallerie/MainMenu.gif",
+    "date": "2024",
+    "description": "Rendu haute définition du personnage avec texturation et éclairage studio."
+  },
+  {
+    "id": 2,
+    "title": "Animation GIF (Première fois que je faais cela)",
+    "image": "assets/img/AAAGallerie/GifAzazelandEveCompress.gif",
+    "date": "2024",
+    "description": "Rendu haute définition du personnage avec texturation et éclairage studio."
+  }
+]

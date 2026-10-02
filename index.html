@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaos - Portfolio</title>
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container nav-container">
+            <a href="#" class="logo">
+                <span>Nycolas Kho</span>
+            </a>
+
+            <nav class="nav-menu">
+                <a href="#home" class="nav-link active">Accueil</a>
+                <a href="#about" class="nav-link">À Propos</a>
+                <a href="#projects" class="nav-link">Projets</a>
+                <a href="#galerie" class="nav-link">Galerie</a>
+            </nav>
+        </div>
+    </header>
+
+<main>
+<!-- SECTION ACCUEIL -->
+<section id="home" class="hero-section">
+    <!-- Arrière-plans dynamiques pour le carrousel -->
+    <div class="hero-bg hero-bg-1"></div>
+    <div class="hero-bg hero-bg-2"></div>
+    <div class="hero-overlay"></div>
+
+    <div class="container hero-content">
+        <h1 class="hero-title">Développeur Multimédia & Artiste 3D<span class="highlight"></span></h1>
+        <p class="hero-tagline">Création d'univers 3D, rigging complexe, systèmes de jeu et de Design UI/UX.</p>
+        <div class="hero-buttons">
+            <a href="#projects" class="btn btn-primary">Voir mes projets</a>
+        </div>
+    </div>
+</section>
+
+    <!-- SECTION À PROPOS -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2>À Propos</h2>
+            <div class="about-content">
+                <p class="about-text">
+                    Passionné par la création numérique et le développement, je conçois des expériences interactives et des visuels 3D. 
+                    Actuellement en fin d'études, je recherche des opportunités pour mettre à profit mes compétences en intégration, 3D et programmation.
+                </p>
+                <div class="social-links">
+                    <a href="https://www.linkedin.com/in/nycolas-kho" class="social-btn">Mon Profil LinkedIn</a>
+                </div>
+            </div>
+        </div>
+    </section>
+   
+    <!-- SECTION PROJETS -->
+    <section id="projects" class="projects-section">
+        <div class="container">
+            <h2>Mes Projets</h2>
+            <p class="section-intro">Découvre mes réalisations clés en 3D, développement et intégration.</p>
+            <!-- Le conteneur vide qui recevra les projets via JS -->
+            <div class="projects-grid" id="projects-container"></div>
+        
+            <!-- Bouton Voir plus / Voir moins -->
+            <div class="gallery-more-wrapper">
+                <button id="btn-toggle-projects" class="btn btn-secondary">Voir plus</button>
+            </div>
+        </div>
+    </section>
+
+        <!-- SECTION GALERIE -->
+    <section id="galerie" class="gallery-section">
+        <div class="container">
+            <h2>Galerie Visuelle</h2>
+            <div class="gallery-grid" id="gallery-container">
+                <!-- Injecté dynamiquement via JS -->
+            </div>
+
+            <!-- Bouton Voir plus / Voir moins -->
+            <div class="gallery-more-wrapper">
+                <button id="btn-toggle-gallery" class="btn btn-secondary">Voir plus</button>
+            </div>
+        </div>
+    </section>
+    
+    <!-- N'oublie pas de lier ton fichier JS juste avant la fermeture de </body> -->
+    <div id="index-lightbox" class="lightbox" aria-hidden="true">
+        <button id="index-lightbox-close" class="lightbox-close" type="button">
+            &times;
+        </button>
+
+        <div class="lightbox-content-wrapper">
+            <img id="index-lightbox-img" src="" alt="">
+            <p id="index-lightbox-description"></p>
+        </div>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Chaos. All rights reserved. Hébergé sur GitHub Pages (I guess).</p>
+        </div>
+    </footer>
+
+</body>
+</html>

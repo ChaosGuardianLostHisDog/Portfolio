@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détail du projet</title>
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- Importation du composant 3D model-viewer -->
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
+</head>
+<body>
+
+    <!-- 1. VRAI HEADER (Barre de navigation principale) -->
+    <header>
+        <div class="container nav-container">
+            <a href="index.html" class="logo"><span>Nycolas Kho</span></a>
+            <nav class="nav-menu">
+                <a href="#project-container" class="nav-link active">Détail du projet</a>
+                <a href="index.html#projects" class="nav-link">Retour aux projets</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="project-detail-page">
+        <div class="container" id="project-container">
+
+            <!-- Titre, information, tags -->
+            <div class="project-header">
+                <h1 id="project-title">...</h1>
+                <div class="project-meta">
+                    <span><strong>Date :</strong> <span id="project-date"></span></span> | 
+                    <span><strong>Rôle :</strong> <span id="project-role"></span></span> | 
+                    <span><strong>Catégorie :</strong> <span id="project-category"></span></span>
+                </div>
+                <ul class="project-tags" id="project-tags"></ul>
+            </div>
+
+            <!-- Bannière Image (Projets Classiques (Web ou Unity)) -->
+            <div class="project-hero-img">
+                <img id="project-cover" src="" alt="">
+            </div>
+
+            <!-- Lecteur 3D Interactif avec bouton plein écran -->
+            <div id="3d-viewer-container" style="display: none; position: relative;" class="project-hero-img">
+                <model-viewer id="3d-viewer" src="" camera-controls style="width: 100%; height: 100vh; background-color: #000000;"></model-viewer>
+                
+                <!-- Bouton plein écran -->
+                <button id="btn-fullscreen" class="btn btn-secondary">Plein écran</button>
+            </div>
+
+            <!-- Lecteur Vidéo (Projets avec animation/démo vidéo) -->
+            <div id="video-container" style="display: none;" class="project-hero-img">
+                <video id="project-video" controls >
+                    <source src="" type="video/mp4">
+                    Votre navigateur ne supporte pas la lecture de vidéos.
+                </video>
+            </div>
+
+            <div class="project-body">
+                <div class="project-description">
+                    <h2>À propos du projet</h2>
+                    <div id="project-description"></div>
+                </div>
+
+                <div class="project-links">
+                    <a id="btn-demo" href="#" class="btn btn-primary" style="display: none;">Accéder au projet / Démo</a>
+                    <a id="btn-repo" href="#" class="btn btn-secondary" style="display: none;">Code Source (GitHub)</a>
+                    <a id="btn-original" href="#" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" style="display: none;">Voir le site original</a>
+                </div>
+            </div>
+
+            <section class="project-gallery-section" id="gallery-section" style="display: none;">
+                <h2>Galerie du projet</h2>
+                <div class="project-gallery-grid" id="project-gallery"></div>
+            </section>
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Chaos. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Modale Lightbox pour la Galerie -->
+    <div id="lightbox-modal" class="lightbox">
+        <span class="lightbox-close">&times;</span>
+        <button class="lightbox-prev" id="lightbox-prev">&#10094;</button>
+        <div class="lightbox-content-wrapper">
+            <img id="lightbox-img" src="" alt="Agrandissement galerie">
+            <video id="lightbox-video" controls playsinline></video>
+        </div>
+        <button class="lightbox-next" id="lightbox-next">&#10095;</button>
+    </div>
+
+    <script src="assets/js/project-detail.js"></script>
+</body>
+</html>

@@ -1,0 +1,416 @@
+[
+  {
+    "id": "projet-1",
+    "title": "La Voix du Nexus",
+    "date": "Hiver 2026",
+    "category": "Jeu Vidéo",
+    "role": "Directeur d'intégration",
+    "description": "Projets de Jeu en Équipe: Plateformeur 3D, Hack'n'Slash",
+    "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "La Voie du Nexus est un jeu de plateforme 3D, hack 'n' slash et multijoueur local, ayant décroché la 2ᵉ place lors du concours d'arcade du Collège de Maisonneuve (Session d'hiver 2026). On y incarne deux personnages, Airon et",
+        "Maxina, qui unissent leurs forces pour sauver le monde de la redoutable Armée des morts surgissants de la fosse hadale menée par le grand Gilvex",
+        "Ce jeu comporte plusieurs variétés de monstres, un boss redoutable, une arbre de compétences et bien plus !"
+      ]
+    },
+    {
+      "subtitle": "Mon Rôle : Co-Directeur Technique & Lead Gameplay Developer",
+      "paragraphs": [
+        "Au sein de l'équipe de développement, ma polyvalence m'a permis d'intervenir sur l'ensemble du pipeline du jeu :",
+        "- J'ai conçu et programmé l'intégralité de l'intelligence artificielle des monstres ainsi que le combat contre le boss final.",
+        "- Développer le système de combat, apparitions des monstres et des Managers des niveaux que j'ai développé.",
+        "- L'économie globale et les mécaniques de loot.",
+        "-----",
+        "Sur le plan artistique et technique :",
+        "- j'ai pris en charge le rigging, l'intégration des modèles des ennemis.",
+        "- Le paramétrage des animations dans le moteur.",
+        "- Le level design de 1 tier des niveaux du jeu (35%) tout en assurant le débogage et l'optimisation continue du projet."
+      ]
+    },
+    {
+      "subtitle": "Information à propos du trailer",
+      "paragraphs": [
+        "Le trailer du jeu n'ai pas fait par moi, donc",
+        "Merci à IKO pour le trailer: https://www.youtube.com/@iko.83/videos"
+      ]
+    }
+  ],
+    "tags": ["Unity", "Maya"],
+    "coverImage": "assets/img/Projets Voix Nexus/PageAfficheBanner.png",
+    "gallery": [
+      {
+        "type": "video",
+        "src": "assets/videos/LA VOIE DU NEXUS - Bande-annonce.mp4",
+        "poster": "assets/img/Projets Voix Nexus/Affiche.png"
+      },
+      {
+        "type": "video",
+        "src": "assets/videos/VideoTestVDN.mp4",
+        "poster": "assets/img/Projets Voix Nexus/Affiche.png"
+      },
+      "assets/img/Projets Voix Nexus/Affiche.png",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_010.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_015.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_017.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_018.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_021.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_023.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_026.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_028.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_032.webp",
+      "assets/img/Projets Voix Nexus/screenshot_3840x2160_2026-05-25_033.webp"
+    ],
+    "repoLink": null,
+    "demoLink": "https://itsspo0ks.itch.io/la-voie-du-nexus"
+  },
+  {
+    "id": "projet-2",
+    "title": "Zombie Invasion !",
+    "date": "Automne 2025",
+    "category": "Jeu Vidéo / Web",
+    "role": "Créateur du jeu",
+    "description": "Un jeu de zombie ''Endless'' votre but est de survivre le plus longtemps possible !",
+    "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "« Zombie Invasion ! » est un jeu de zombie arcade au gameplay infini (endless) dont le but est de survivre le plus longtemps possible face à des vagues de monstres aux caractéristiques uniques."
+      ]
+    },
+    {
+      "subtitle": "Développement",
+      "paragraphs": [
+        "Ce projet marque ma première prise en main du moteur Unity 3D, à travers lequel j'ai réalisé :",
+        "- L'importation et l'intégration des modèles 3D et de leurs animations.",
+        "- La création et le codage de l'intelligence artificielle des monstres.",
+        "- Le développement d'un système d'économie pour le joueur (achats d'améliorations et power-ups dispersés sur la carte).",
+        "- Design d'un niveau.",
+        "Et bien d'autre chose !"
+      ]
+    }
+    ,
+    {
+      "subtitle": "Cheat Code",
+      "paragraphs": [
+        "Appuyez O + P pour se donner de l'argent (4k par execution)",
+        "Appuyez L + K pour suprimer les améliorations",
+        "Les objets interactible apparaissent après 1min"
+      ]
+    }
+  ],
+    "tags": ["Unity"],
+    "coverImage": "assets/img/Zombie Invasion/ZombieInvasionHeroBanner.png",
+    "gallery": [
+      "assets/img/Zombie Invasion/Map objet Interactible.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 160728.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 154831.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 154856.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 155135.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 155407.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 155417.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 155547.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 160319.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 160700.png",
+      "assets/img/Zombie Invasion/Capture d’écran 2026-09-23 160711.png"
+    ],
+    "repoLink": "https://github.com/ChaosGuardianLostHisDog/AnimationPersonnages_A2025",
+    "demoLink": "https://chaosguardianlosthisdog.github.io/Zombie-Invasion---Test-Game/"
+  },
+  {
+    "id": "personnage-3d-2",
+    "title": "Fan-art: Azazel",
+    "type": "model3d",
+    "date": "Automne 2026",
+    "category": "Modélisation 3D",
+    "role": "Modélisation & Rigging",
+    "description": "Le « Big Zazer » du jeu « The Binding of Isaac » !!!!!!",
+    "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "Revisite en 3D du personnage d'Azazel tiré du jeu « The Binding of Isaac » (version adulte). Modélisation complète dans Autodesk Maya et texturation PBR réalisée sur Substance Painter."
+      ]
+    },
+    {
+      "subtitle": "Information",
+      "paragraphs": [
+        "Polycount : 25k triangles (Mid-Poly)",
+        "Texturing : Maps PBR (Base Color, Normal, Roughness, Metallic)",
+        "Rigging complet : Rig intégral du corps, des ailes et du visage (expressions faciales)",
+        "Logiciels : Maya, Substance Painter, Advanced Skelton"
+      ]
+    }
+  ],
+    "tags": ["Maya", "Substance Painter", "3D"],
+    "coverImage": "assets/img/Azazel3D/Pretty Demon.jpg",
+    "model3dFile": "assets/models/Azazel.glb",
+    "gallery": [
+      "assets/img/Azazel3D/Pretty Demon.jpg",
+      "assets/img/Azazel3D/ZazUh.jpg"
+    ],
+    "repoLink": null,
+    "demoLink": null
+  },
+  {
+    "id": "personnage-3d-1",
+    "title": "Fan-art: Eve",
+    "type": "model3d",
+    "date": "Automne 2026",
+    "category": "Modélisation 3D",
+    "role": "Modélisation & Rigging",
+    "description": "Eve du jeu « The Binding of Isaac »",
+    "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "Revisite en 3D du personnage d'Eve tiré du jeu « The Binding of Isaac » (version adulte). Modélisation complète dans Autodesk Maya et texturation PBR réalisée sur Substance Painter."
+      ]
+    },
+    {
+      "subtitle": "Information",
+      "paragraphs": [
+        "Polycount : 38k triangles (Mid-Poly)",
+        "Polycount sans les vêtements: 18k triangles (Mid-Poly)",
+        "Texturing : Maps PBR (Base Color, Normal, Roughness, Metallic)",
+        "Rigging complet : Rig intégral du corps et du visage (expressions faciales)",
+        "Logiciels : Maya, Substance Painter, Advanced Skelton"
+      ]
+    },
+    {
+      "subtitle": "Note:",
+      "paragraphs": [
+        "- Chevelure et détails d'accessoires haute densité"
+      ]
+    }
+  ],
+    "tags": ["Maya", "Substance Painter", "3D"],
+    "coverImage": "assets/img/Eve3D/Eve of Mass Destruction.jpg",
+    "model3dFile": "assets/models/Eve.glb",
+    "gallery": [
+      {
+      "type": "video",
+      "src": "assets/videos/Playblast EVE (2).mp4",
+      "poster": "assets/img/Overseer/Affiche.png"
+    },
+    {
+      "type": "video",
+      "src": "assets/videos/Playblast EVE (1).mp4",
+      "poster": "assets/img/Overseer/Affiche.png"
+    },
+      "assets/img/Eve3D/Eve of Mass Destruction.jpg",
+      "assets/img/Eve3D/Eve Woman.jpg",
+      "assets/img/Eve3D/EveFront.jpg",
+      "assets/img/Eve3D/EveSide.jpg",
+      "assets/img/Eve3D/EveBack.jpg",
+      "assets/img/Eve3D/EveFrontCloth.jpg",
+      "assets/img/Eve3D/EveClothSide.jpg",
+      "assets/img/Eve3D/EveClothBack.jpg"
+    ],
+    "repoLink": null,
+    "demoLink": null
+  },
+  {
+  "id": "personnage-3d-3",
+  "title": "Maxina + Wrench",
+  "type": "model3d",
+  "date": "Hiver 2026",
+  "category": "Modélisation 3D",
+  "role": "Modélisation 3D",
+  "description": "Personnage féminin soumarine avec une clé à molette",
+  "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "Un modèle réalisé dans le cadre d'un cours avec pour contrainte de créer un personnage humanoïde-chibi stylisé en dessous de 10 000 triangles (les accessoires et armes ne sont pas comptés dans cette limite). Modélisation complète dans Autodesk Maya et texturation PBR réalisée sur Substance"
+      ]
+    },
+    {
+      "subtitle": "Information",
+      "paragraphs": [
+        "Polycount Personnage: 9976 triangles (Low-Poly)",
+        "Polycount Arme: 1600 triangles (Low-Poly)",
+        "Texturing : Maps PBR (Base Color, Normal, Roughness, Metallic)",
+        "Rigging complet : Rig intégral du corps (Human IK)",
+        "Logiciels : Maya, Substance Painter"
+      ]
+    }
+  ],
+  "tags": ["Maya", "Substance Painter", "3D"],
+  "coverImage": "assets/img/MaxinaWrench/Maxina Cover.jpg",
+  "model3dFile": "assets/models/Maxina.glb",
+  "gallery": [
+    {
+      "type": "video",
+      "src": "assets/videos/maxinawireframes.mp4",
+      "poster": "assets/img/MaxinaWrench/Maxina Cover.jpg"
+    },
+    "assets/img/MaxinaWrench/Maxina.png",
+    "assets/img/MaxinaWrench/WirefrimeFrontMaxina.jpg",
+    "assets/img/MaxinaWrench/WirefrimeBackMaxina.jpg",
+    "assets/img/MaxinaWrench/WirefrimeLefttMaxina.jpg",
+    "assets/img/MaxinaWrench/WirefrimeRightMaxina.jpg"
+  ],
+  "repoLink": null,
+  "demoLink": null
+  },
+  {
+  "id": "personnage-3d-4",
+  "title": "Robot: Overseer",
+  "type": "model3d",
+  "date": "Automne 2025",
+  "category": "Modélisation 3D",
+  "role": "Modélisation 3D",
+  "description": "!!! OVERSEER - THE INVADER ANNIHILATOR !!!",
+  "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "Premier personnage mécanique de grande ampleur. Ce projet visait à concevoir un robot lourd et détaillé en modélisation Hard-Surface, réalisé sans contrainte de budget de polygones. L'accent a été mis sur la complexité des pièces mécaniques (canons, lances-missiles, pistons) et sur des textures d'usure réalistes"
+      ]
+    },
+    {
+      "subtitle": "Techniques de modélisation",
+      "paragraphs": [
+        "- Modélisation Hard-Surface détaillée (panneaux d'armature, systèmes d'artillerie, réacteurs/Engrenages)",
+        "- Gestion précise des Hard Edges / Bevels pour des reflets mécaniques nets sur les arêtes Assemblage des éléments d'armement"
+      ]
+    },
+    {
+      "subtitle": "Information",
+      "paragraphs": [
+        "Polycount : +50K Triangles (MidPoly)",
+        "Texturing : Maps PBR (Base Color, Normal, Roughness, Metallic)",
+        "Logiciels : Maya, Substance Painter"
+      ]
+    }
+  ],
+  "tags": ["Maya", "Substance Painter", "3D"],
+  "coverImage": "assets/img/Overseer/Affiche.png",
+  "model3dFile": "assets/models/Overseer.glb",
+  "gallery": [
+    {
+      "type": "video",
+      "src": "assets/videos/Robot TP2 - Overseer.mp4",
+      "poster": "assets/img/Overseer/Affiche.png"
+    }
+  ],
+  "repoLink": null,
+  "demoLink": null
+  },
+  {
+  "id": "projet-web-2",
+  "title": "Aux 33 Tours - Remake",
+  "date": "Automne 2025",
+  "category": "Web + UI/UX",
+  "role": "---",
+  "description": "Redesign UI/UX complet de la page d'accueil du site marchand des « Aux 33 Tours » (disquaire indépendant)",
+  "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "Redesign UI/UX complet de la page d'accueil du site marchand des « Aux 33 Tours » (disquaire indépendant). L'objectif était de moderniser l'expérience d'achat en ligne tout en conservant l'identité chaleureuse du magasin physique."
+      ]
+    },
+    {
+      "subtitle": "Information",
+      "paragraphs": [
+        "Navigation repensée (Mega Menu) : Remplacement du menu déroulant vertical encombré par une barre de navigation organisée en catégories claires (Vinyles, CDs, Arrivages), améliorant la fluidité de recherche.",
+        "Hiérarchie visuelle & Layout : Structuration des collections sous forme de cartes sur fond contrasté pour une meilleure lisibilité des albums et des prix.",
+        "Footer & Ancrage local : Conception d'un bas de page sombre contrasté valorisant la boutique physique (horaires, adresse, visuel) et facilitant l'accès aux politiques de livraison."
+      ]
+    }
+  ],
+  "tags": ["Figma", "HTML5", "CSS", "JS"],
+  "coverImage": "assets/img/Remake33Tours/BannerRemake33Tour.png",
+  "model3dFile": "assets/models/Overseer.glb",
+  "gallery": [
+    "assets/img/Remake33Tours/Capture d’écran 2026-10-01 221138.png",
+    "assets/img/Remake33Tours/Capture d’écran 2026-10-01 221142.png",
+    "assets/img/Remake33Tours/Capture d’écran 2026-10-01 221211.png",
+    "assets/img/Remake33Tours/Capture d’écran 2026-10-01 221217.png",
+    "assets/img/Remake33Tours/Capture d’écran 2026-10-01 221224.png",
+    "assets/img/Remake33Tours/Capture d’écran 2026-10-01 221237.png"
+  ],
+  "repoLink": null,
+  "demoLink": "https://chaosguardianlosthisdog.github.io/Remake-33-Tours/",
+  "OriginalLink": "https://aux33tours.com/"
+  },
+  {
+    "id": "projet-web-1",
+    "title": "Jeu du bonhomme pendu !",
+    "date": "hiver 2024",
+    "category": "Web / Jeu Vidéo",
+    "role": "Créateur du Site Web",
+    "description": "C'est un jeu de devinette, dans lequel on doit deviner des mots.",
+    "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "Modernisation interactive du jeu classique du pendu, développée en JavaScript natif (Vanilla JS). Le projet met l'accent sur une expérience utilisateur dynamique (juice/game feel) grâce à un système complet d'animations CSS/JS, d'habillage sonore et de musique évolutive en fonction de l'état de la partie."
+      ]
+    },
+    {
+      "subtitle": "Fonctionnalités",
+      "paragraphs": [
+        "- Game Feel & Feedback visuel : Animations fluides pour la révélation des lettres, retours d'erreurs, barres de progression et transitions d'état (victoire/défaite).",
+        "- Gestion précise des Hard Edges / Bevels pour des reflets mécaniques nets sur les arêtes Assemblage des éléments d'armement",
+        "- Design Sonore Dynamique : Intégration d'effets sonores (SFX) et de musiques d'ambiance réactives selon la progression du joueur.",
+        "- Interface & UX : Clavier virtuel interactif avec suivi des lettres utilisées, calcul du score final et gestion des menus/règles du jeu."
+      ]
+    }
+  ],
+    "tags": ["Web", "VScode", "HTML5", "CSS", "JavaScript"],
+    "coverImage": "assets/img/Jeu du pendu/BannerPendu.png",
+    "gallery": [
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 093920.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 093811.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 093820.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 093828.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 093639.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 085622.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 085836.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 085832.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 085719.png",
+      "assets/img/Jeu du pendu/Capture d’écran 2026-09-25 094512.png"
+    ],
+    "repoLink": "https://github.com/ChaosGuardianLostHisDog/Jeu-du-Pendu",
+    "demoLink": "https://chaosguardianlosthisdog.github.io/Jeu-du-Pendu/"
+  },
+  {
+    "id": "Video1",
+    "title": "Vidéo trailer pour un jeu qui n'existe pas !",
+    "type": "video",
+    "date": "Automne 2024",
+    "category": "Animation / Adobe After Effects",
+    "role": "---",
+    "description": "Animation d'un jeu qui n'existe pas avec After Effect",
+    "fullDescription": [
+    {
+      "subtitle": "Présentation",
+      "paragraphs": [
+        "Conception et animation d'un trailer fictif pour un jeu vidéo 2D. Ce projet académique visait à créer une bande-annonce dynamique en compositing 2D à partir d'un univers original. L'intégralité des assets visuels et du Pixel Art a été réalisée sur mesure."
+      ]
+    },
+    {
+      "subtitle": "Information",
+      "paragraphs": [
+        "Création visuelle : Création originale de tous les assets graphiques et sprites en Pixel Art",
+        "Animation & Compositing : Montage, découpe et effets dynamiques sous After Effects",
+        "Logiciels : Adobe After Effects, Photoshop"
+      ]
+    }
+  ],
+    "tags": ["After Effect", "Photoshop"],
+    "coverImage": "assets/img/AzerVonKriegVideos/Azer Von Krieg - Idle 3.png",
+    "videoFile": "assets/videos/TP2 - After Effects.mp4",
+    "gallery": [
+      "assets/img/AzerVonKriegVideos/Azer Von Krieg - Idle 3.png",
+      "assets/img/AzerVonKriegVideos/luger.png",
+      "assets/img/AzerVonKriegVideos/Sprite Tile Sheet.png"
+    ],
+    "repoLink": null,
+    "demoLink": null
+  }
+]
